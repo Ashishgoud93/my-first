@@ -1,0 +1,10 @@
+a=10
+print(type(a))
+b="python"
+print(type(b))
+c=2+3j
+print(type(c))
+d=True
+print(type(d))
+e=False
+print(type(e))
